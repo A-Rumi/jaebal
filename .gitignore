@@ -1,0 +1,10 @@
+
+socket.io-adapter-1.1.2/LICENSE
+socket.io-adapter-1.1.2/Readme.md
+socket.io-redis-adapter-5.4.0/.travis.yml
+.DS_Store
+socket.io-redis-adapter-5.4.0/LICENSE
+socket.io-redis-adapter-5.4.0/docker-compose.yml
+socket.io-redis-adapter-5.4.0/Makefile
+socket.io-redis-adapter-5.4.0/README.md
+socket.io-redis-adapter-5.4.0/CHANGELOG.md
